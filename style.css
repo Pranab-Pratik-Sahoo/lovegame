@@ -1,0 +1,37 @@
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+h1 {
+  color: red;
+}
+
+form {
+  display: inline-block;
+  margin: 20px;
+}
+
+input {
+  margin: 5px;
+  padding: 5px;
+  border: 2px solid black;
+  border-radius: 5px;
+}
+
+button {
+  margin: 10px;
+  padding: 10px;
+  border: none;
+  background-color: red;
+  color: white;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#result {
+  margin: 20px;
+  font-size: 24px;
+  font-weight: bold;
+  color: green;
+}
